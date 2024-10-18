@@ -1,0 +1,15 @@
+/Users/watanabewataru/CS_study/LearnDDD/bin/Debug/net8.0/LearnDDD
+/Users/watanabewataru/CS_study/LearnDDD/bin/Debug/net8.0/LearnDDD.deps.json
+/Users/watanabewataru/CS_study/LearnDDD/bin/Debug/net8.0/LearnDDD.runtimeconfig.json
+/Users/watanabewataru/CS_study/LearnDDD/bin/Debug/net8.0/LearnDDD.dll
+/Users/watanabewataru/CS_study/LearnDDD/bin/Debug/net8.0/LearnDDD.pdb
+/Users/watanabewataru/CS_study/LearnDDD/obj/Debug/net8.0/LearnDDD.GeneratedMSBuildEditorConfig.editorconfig
+/Users/watanabewataru/CS_study/LearnDDD/obj/Debug/net8.0/LearnDDD.AssemblyInfoInputs.cache
+/Users/watanabewataru/CS_study/LearnDDD/obj/Debug/net8.0/LearnDDD.AssemblyInfo.cs
+/Users/watanabewataru/CS_study/LearnDDD/obj/Debug/net8.0/LearnDDD.csproj.CoreCompileInputs.cache
+/Users/watanabewataru/CS_study/LearnDDD/obj/Debug/net8.0/LearnDDD.sourcelink.json
+/Users/watanabewataru/CS_study/LearnDDD/obj/Debug/net8.0/LearnDDD.dll
+/Users/watanabewataru/CS_study/LearnDDD/obj/Debug/net8.0/refint/LearnDDD.dll
+/Users/watanabewataru/CS_study/LearnDDD/obj/Debug/net8.0/LearnDDD.pdb
+/Users/watanabewataru/CS_study/LearnDDD/obj/Debug/net8.0/LearnDDD.genruntimeconfig.cache
+/Users/watanabewataru/CS_study/LearnDDD/obj/Debug/net8.0/ref/LearnDDD.dll
