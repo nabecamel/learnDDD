@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LearnDDD")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2c33da1423858ca279703baa66cd95de67bf168c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+89d2c08e11b02cd82663564c8a51a95959b1478a")]
 [assembly: System.Reflection.AssemblyProductAttribute("LearnDDD")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LearnDDD")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
