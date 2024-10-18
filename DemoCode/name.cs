@@ -8,9 +8,9 @@ namespace	DemoCode
 		{
 			var	fullName = "wataru watanabe";
 			var	tokens = fullName.Split(' ');
-			var	lastName = tokens[0];
+			var	firstName = tokens[0];
 			Console.WriteLine(fullName);
-			Console.WriteLine(lastName);
+			Console.WriteLine(firstName);
 		}
 	}
 }
