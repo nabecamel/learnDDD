@@ -5,7 +5,9 @@ class	Program
 {
 	static	void	Main(string[] args)
 	{
-		Name.PrintFullName();
+		PrintGreetings();
+		var fullname = new FullName("John","smith");
+		Console.WriteLine(fullname.LastName);
 	}
 }
 
